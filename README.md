@@ -25,5 +25,5 @@ Me apasiona transformar datos en estrategias que generen impacto positivo en emp
 ---
 
 ## 🌍 Conéctate conmigo
-- [LinkedIn](https://www.linkedin.com/in/tuusuario)  
-- [Email](mailto:tuemail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/georgina-rodr%C3%ADguez/)  
+- [Email](georginardz9310@gmail.com)
