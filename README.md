@@ -22,6 +22,7 @@ Me apasiona transformar datos en estrategias que generen impacto positivo en emp
 - [Análisis de ventas de videojuegos para plan de marketing](https://github.com/Gina9310/An-lisis-de-ventas-de-videojuegos-para-plan-de-marketing)  
 - [Análisis de embudo de ventas para determinar comportamiento del usuario](https://github.com/Gina9310/An-lisis-de-embudo-de-ventas-para-determinar-el-comportamiento-del-usuario-a-cambio-en-la-aplicaci-n)
 - [Análisis de RSU en México](https://github.com/Gina9310/An-lisis-RSU-en-M-xico)
+- [Predicción de Consumo de Energía en Viviendas](https://github.com/Gina9310/Predicci-n-de-consumo-de-energ-a-por-vivienda/blob/main/README.md)
 
 ---
  
