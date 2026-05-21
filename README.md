@@ -19,7 +19,7 @@ Me apasiona transformar datos en estrategias que generen impacto positivo en emp
 ---
 
 ## 📊 Proyectos destacados
--
+
 - [Evaluación del impacto de estrategias bioclimáticas mediante simulación energética](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/README.md)
 - [Predicción de Consumo de Energía en Viviendas](https://github.com/Gina9310/Predicci-n-de-consumo-de-energ-a-por-vivienda/blob/main/README.md)
 - [Análisis de RSU en México](https://github.com/Gina9310/An-lisis-RSU-en-M-xico)
