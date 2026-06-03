@@ -4,7 +4,7 @@
 
 # 👋 Hola, soy Georgina
 
-Soy **Ingeniera Ambiental** con **Maestría en Economía Circular** y experiencia en **análisis de datos** aplicados a sostenibilidad y marketing.  
+Soy **Ingeniera Ambiental** con **Maestría en Economía Circular** y experiencia en **análisis de datos** aplicados a sostenibilidad.  
 Me apasiona transformar datos en estrategias que generen impacto positivo en empresas y en el medio ambiente.  
 
 ---
